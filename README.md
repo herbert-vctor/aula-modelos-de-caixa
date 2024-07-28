@@ -19,7 +19,7 @@ Nesse repositório você ira encontrar uma das coisas que aprendi no módulo de 
 - code .
 
 ## O que aprendi ?
-Como o próprio nome do repositório já diz, eu aprendi sobre como resetar os valores do margin e do padding que o navegador coloca.
+Como o próprio nome do repositório já diz, eu aprendi sobre o modelo de caixa e como resetar os seus valores que o navegador colocar por padrão.
 
 ## Dificuldades 
 Talvez por ser CSS básico ou porque o método de ensino dos gêmeos seja bom; mas eu não tive dificuldades em entender as fucionalidades das propriedades aprendidas nesta aula.
